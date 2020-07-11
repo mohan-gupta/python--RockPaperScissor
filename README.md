@@ -6,3 +6,4 @@ For this game I have used three libraries:<br>
 random  : To make random choices<br>
 pyttsx3  : For converting text to Speech<br>
 time  : To time the matches played.<br>
+To see the preview of game, check out the video file : Game Preview.mkv .
